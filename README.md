@@ -9,5 +9,6 @@ Nothing in here should be considered decent, let alone good. At least not yet.
 
 ## Contents
 
-| Folder | Library Type |
+| Folder   | Library Type                                                            |
+|:---------|:------------------------------------------------------------------------|
 | Blinkers | Libraries which turn one/many output signals on and off, over and over. |
