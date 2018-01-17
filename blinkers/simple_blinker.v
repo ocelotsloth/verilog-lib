@@ -13,7 +13,7 @@
  *     .blink(led[0])
  *   );
  */
-module blinker(
+module simple_blinker(
   input clk,   // Clock input
   input rst,   // Reset input
   output blink // Oscillating output
@@ -64,4 +64,4 @@ always @(posedge clk) begin
   end
 end
 
-endmodule // blinker
+endmodule // simple_blinker
